@@ -2,4 +2,6 @@ rencana konten
 - genshin
   * gacha truss
   * dapet diluc
+  * beli blessing
+  * spiral abyss
 - ff
