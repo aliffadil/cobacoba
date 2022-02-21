@@ -1,4 +1,5 @@
 rencana konten 
 - genshin
-  gacha truss
+  * gacha truss
+  * dapet diluc
 - ff
