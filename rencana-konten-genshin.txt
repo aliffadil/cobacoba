@@ -2,4 +2,5 @@ rencana konten
 - genshin
   * gacha truss
   * dapet diluc
+  * beli blessing
 - ff
